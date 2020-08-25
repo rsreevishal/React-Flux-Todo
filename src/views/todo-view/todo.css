@@ -1,0 +1,13 @@
+.ToDo{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+}
+
+.progress p{
+    color: crimson;
+}
+
+.completed p{
+    color: green;
+}
